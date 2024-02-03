@@ -1,0 +1,34 @@
+.container {
+    margin: 20px;
+    background: #c7c8c4;
+  }
+  
+  .table-responsive {
+    overflow-x: auto;
+    background: whitesmoke;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #bac610;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #bac610;
+  }
+  
+  td {
+    background-color: #fff;
+  }
+  
+  .btn {
+    margin-right: 5px;
+  }
+  

@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "dev",
+			"path": "TodoApp",
+			"problemMatcher": [],
+			"label": "npm: dev - TodoApp",
+			"detail": "vite",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
